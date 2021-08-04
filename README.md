@@ -1,4 +1,4 @@
-# The name of the project. This name should be a descriptive, specific name for your project and what it does.  
+# Ball simulation project
 
 ## Description
 I completed this project as part of the MIT javascript course, and it demonstrates my progress as a programmer. 
