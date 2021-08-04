@@ -1,20 +1,19 @@
 # The name of the project. This name should be a descriptive, specific name for your project and what it does.  
 
 ## Description
-A description of the project to let people know what the project is for. A list of features could also be added here as a sub-section. 
+I completed this project as part of the MIT javascript course, and it demonstrates my progress as a programmer. 
 
 ## Installation
- If needed, you could include steps to help people get started with your project.
+ In this video, https://www.youtube.com/watch?v=HHlPM_trx2I I show you how to create the ball movement with javaScript. 
 
 ## Usage
-You can include examples of how to use your project in this section and highlight the expected outcomes. 
+The ball js code consists of variables, functions, conditional statements, and setInterval statements. When reverse is true or the ball falls, I used a conditional statement to reverse the direction of the ball. The project will be further developed by changing the original position, velocity, and reversal
 
 ## Support
-You can tell people where to go for help regarding your project (example: email, Twitter, etc.). 
+email me if you need further support or quesitons, sunyban8@gmail.com 
 
 ## Roadmap
 This section could include any future fixes or improvements you might be planning for your project. 
 
 ## License
-For open source projects, you can describe how they’re licensed.  
-
+An instructional video is available on how to create the ball simulation via YouTube and GitHub
